@@ -27,8 +27,9 @@ I work primarily with **Java, Spring Boot, React, Python, and C++**, along with 
 
 🔗 REST APIs · 🧱 Microservices · 🏗️ System Design · 🌿 Git
 ## 🤝 Let's Connect
+Reach me at - s.swetasahu98@gamil.com
 
-I'm always interested in **interesting engineering problems, AI, open-source projects, and opportunities to build impactful products**.
+I'm always interested in **collaborating, building**.
 
 * 💼 Open to interesting opportunities
 * 🤖 Interested in AI & Agentic AI
@@ -39,8 +40,8 @@ I'm always interested in **interesting engineering problems, AI, open-source pro
 
 ### ⚡ A little about me
 
-> I enjoy turning complex problems into simple, scalable solutions — and lately, teaching AI agents how to do the same. 🤖
+> I love exploring new technologies. 🤖
 
 ---
 
-⭐ **If you find something interesting in my repositories, feel free to star it!**
+⭐ **If you find something interesting to talk, feel free to recah out1**
